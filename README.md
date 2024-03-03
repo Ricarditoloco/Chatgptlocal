@@ -63,6 +63,8 @@ Está claro que se obtiene un mejor rendimiento al utilizar entradas de texto en
 # Rendimiento:
 
 Las pruebas las realice con una laptop con 16 GB de RAM, un Ryzen 5 5000 series y sin tarjeta gráfica son válidas para este código de ejemplo. Sin embargo, el rendimiento puede variar en función de la complejidad de la tarea que se le asigne al modelo y de las especificaciones de tu equipo.
+![image](https://github.com/Ricarditoloco/Chatgptlocal/assets/107517375/695514f5-9596-43ff-b065-33227ba94a14)
+
 
 # Limitaciones:
 
